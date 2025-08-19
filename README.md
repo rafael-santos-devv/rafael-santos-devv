@@ -1,16 +1,30 @@
-## Hi there 👋
+ <img src="./banner1.gif" width="100%">
 
-<!--
-**rafael-santos-devv/rafael-santos-devv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ 
+- 🌱 Aprendendo JavaScript, NodeJS e React
+- 👯 Aberto a projetos que desafiem minhas habilidades
+- 🤔 Buscando orientação em backend e integração de APIs
+- 💬 Posso conversar sobre programação, web e tecnologia
+- 📫 Linkedin: (www.linkedin.com/in/rafael-francisco17) 
+- ⚡ Curiosidade: Gosto de resolver problemas e experimentar novas ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+
+<a href="https://github.com/rafael-santos-devv">
+<img height="130em" src="https://github-readme-stats.vercel.app/api?username=rafael-santos-devv&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark&cache_seconds=0">
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-santos-devv&layout=compact&theme=github_dark">
+</div>          
+
+<div>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="30" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"   height="30" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="30" width="40"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="30" width="40" />
+          
+          
+          
+          
+>>>>>>> 62e565d ( iniciando a construção do README do perfil)

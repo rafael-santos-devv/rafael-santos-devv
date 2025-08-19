@@ -28,7 +28,7 @@
 _________________________________________________________________________________________
 
 <div>
-<img height="115em" src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-santos-devv&repo=Gratiflix&theme=shadow_red">
+<img height="115em" src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-santos-devv&repo=Gratiflix&theme=graywhite">
 <img height="115em" src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-santos-devv&repo=PrecoTech&theme=graywhite">
 </div>
 

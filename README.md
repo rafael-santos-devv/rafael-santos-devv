@@ -1,4 +1,4 @@
- <img src="./banner1.gif" width="100%">
+ <img src="./banner1.png" width="100%" height= "450px">
 
 
  

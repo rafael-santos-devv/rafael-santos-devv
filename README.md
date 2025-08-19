@@ -12,8 +12,8 @@
 <div>
 
 <a href="https://github.com/rafael-santos-devv">
-<img height="100em" src="https://github-readme-stats.vercel.app/api?username=rafael-santos-devv&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark&cache_seconds=0">
-<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-santos-devv&layout=compact&theme=github_dark">
+<img height="120em" src="https://github-readme-stats.vercel.app/api?username=rafael-santos-devv&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark&cache_seconds=0">
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-santos-devv&layout=compact&theme=github_dark">
 </div>          
 
 <div>

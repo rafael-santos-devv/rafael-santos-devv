@@ -35,7 +35,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________
 
 <div> 
-[![YOUTUBE](https://img.shields.io/badge/audibert-000000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@rafatech1101)
+![GitHub followers](https://img.shields.io/github/followers/rafael-santos-devv?style=for-the-badge&logo=github&color=black)
  <a href="https://instagram.com/rafatech1101" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-francisco17" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>

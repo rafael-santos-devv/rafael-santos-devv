@@ -1,0 +1,48 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# === SQLite ===
+*.db
+*.sqlite3
+
+# === VSCode ===
+.vscode/
+
+# === Environments ===
+.env
+.env.* 
+*.env
+.venv/
+venv/
+ENV/
+env/
+
+# === Logs ===
+*.log
+
+# === macOS ===
+.DS_Store
+
+# === Windows ===
+Thumbs.db
+desktop.ini
+
+# === Python Package Metadata ===
+*.egg-info/
+*.egg
+dist/
+build/
+
+# === Coverage and Testing ===
+htmlcov/
+.coverage
+.cache
+.tox/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover

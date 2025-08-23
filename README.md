@@ -34,8 +34,9 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________
 
-<div> 
-![GitHub followers](https://img.shields.io/github/followers/rafael-santos-devv?style=for-the-badge&logo=github&color=black)
- <a href="https://instagram.com/rafatech1101" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafael-francisco17" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+[![GitHub followers](https://img.shields.io/github/followers/rafael-santos-devv?style=for-the-badge&logo=github&color=black)](https://github.com/rafael-santos-devv) [![Instagram](https://img.shields.io/badge/Instagram-@rafatech1101-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rafatech1101) [![LinkedIn](https://img.shields.io/badge/LinkedIn-rafael--francisco17-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-francisco17)
+
+<div>
+🚧 README em construção🚧
 </div>
+>>>>>>> 83f235c (Atualizando README melhorando badges)

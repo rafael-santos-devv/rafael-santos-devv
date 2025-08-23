@@ -38,7 +38,8 @@ ________________________________________________________________________________
 
 [![GitHub followers](https://img.shields.io/github/followers/rafael-santos-devv?style=for-the-badge&logo=github&color=black)](https://github.com/rafael-santos-devv) [![Instagram](https://img.shields.io/badge/Instagram-@rafatech1101-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rafatech1101) [![LinkedIn](https://img.shields.io/badge/LinkedIn-rafael--francisco17-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-francisco17)
 
- 
+ <img src="https://raw.githubusercontent.com/rafael-santos-devv/rafael-santos-devv/output/snake.svg" alt="Snake animation" />
+
 
 <div>
 🚧 README em construção🚧

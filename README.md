@@ -39,4 +39,3 @@ ________________________________________________________________________________
 <div>
 🚧 README em construção🚧
 </div>
->>>>>>> 83f235c (Atualizando README melhorando badges)

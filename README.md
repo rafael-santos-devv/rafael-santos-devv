@@ -11,9 +11,9 @@
 
 <div>
 
-<a href="https://github.com/rafael-santos-devv">
-<img height="120em" src="https://github-readme-stats.vercel.app/api?username=rafael-santos-devv&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark&cache_seconds=0">
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-santos-devv&layout=donut&theme=github_dark">
+_________________________________________________________________________________________
+ 
+</a> 
 
 </div>         
 
@@ -31,9 +31,10 @@
 
 _________________________________________________________________________________________
 
-<div>
-<img height="115em" src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-santos-devv&repo=Gratiflix&theme=graywhite">
-<img height="115em" src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-santos-devv&repo=PrecoTech&theme=graywhite">
+ <div align="center">
+<img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafael-santos-devv&show_icons=true&theme=midnight-purple">
+<img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafael-santos-devv&layout=compact&theme=midnight-purple">
+</div>
 </div>
 
 _________________________________________________________________________________________
@@ -41,6 +42,8 @@ ________________________________________________________________________________
 [![GitHub followers](https://img.shields.io/github/followers/rafael-santos-devv?style=for-the-badge&logo=github&color=black)](https://github.com/rafael-santos-devv) [![Instagram](https://img.shields.io/badge/Instagram-@rafatech1101-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rafatech1101) [![LinkedIn](https://img.shields.io/badge/LinkedIn-rafael--francisco17-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-francisco17)
 
  <img src="https://raw.githubusercontent.com/rafael-santos-devv/rafael-santos-devv/output/snake.svg" alt="Snake animation" />
+
+<div>
 
 
 <div>
